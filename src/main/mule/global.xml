@@ -26,5 +26,4 @@ http://www.mulesoft.org/schema/mule/secure-properties http://www.mulesoft.org/sc
 		<http:request-connection host="${anypoint.platform.apis.osv2.host}" port="443" protocol="HTTPS" />
 	</http:request-config>
 	<secure-properties:config name="Secure_Properties_Config" doc:name="Secure Properties Config" doc:id="24678c25-10fb-4f47-941f-d16a779997c5" file="properties/secure/app-${mule.env}.yaml" key="${mule.key}"/>
-	<global-property doc:name="Global Property" doc:id="27925b96-0977-4ea5-b09e-e417f88b98d0" name="mule.key" value="thisshouldbeakey" />
 </mule>

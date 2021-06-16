@@ -1,1 +1,3 @@
-{"minMuleVersion":"4.2.2"}
+{
+"secureProperties": ["mule.key"],
+"minMuleVersion":"4.2.2"}
