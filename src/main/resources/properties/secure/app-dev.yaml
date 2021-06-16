@@ -3,12 +3,12 @@ auth:
   orgId: "![LDmofykW++B384tyLI02e5mzDNQOfaYsdRiKWMW5v3MSWIHOtthj6Jw7KkynMU0J]"
   
   # If auth mode = platform-credentials (ignored, otherwise):
-  username: "![FSLF7mgvXr6Qt4TwqaTnuA==]"
-  password: "![6Gn1IAtRCOn3FFAXppdaTcxPnXZNVbaNxCWZ4LMU86k=]"
+ # username: "![FSLF7mgvXr6Qt4TwqaTnuA==]"
+  #password: "![6Gn1IAtRCOn3FFAXppdaTcxPnXZNVbaNxCWZ4LMU86k=]"
   
   # If auth mode = connected-app-credentials (ignored, otherwise):
- # clientId: "![b+FmHUXYZQOmSdfyB7nG9VWCqDk4CsmFYF4theXJibXaOKxkk0rGDfJYz+CNrv5/]"
- # clientSecret: "![IkAEEL7Se3eCp3HoMQnd5ZvNtoJGOCN1OI8mo29BJz9P3NJp5zF30uf2k3P36KDX]"
+  clientId: "![/MMU7ea+a9ugdgMHbXqvP33gp7f1ekFoHUetI2oq41zNQGm8cuoyLK+C2grm2OXc]"
+  clientSecret: "![3B9cpSpPHLhoQQkbQvr7Ry6Tr36LLQS5aR1koK5etVaf1HSgH16+26WGesq9+7k/]"
   
 #ignoreLists:
 #  organizations: "5493e54f-d51d-4bf6-90df-4599b42b24e9,7efb835c-2f78-4e09-845a-ee571b711ed9,f2591fbd-01ff-4f6f-a853-75c0bdaaef75,6d1cac5b-edcf-435a-ba62-c2bdb554ea64,ac5b18e2-e479-4b03-bf14-74255a074308,e037347e-4c45-4cd9-b598-f5834c4f58d8,d5e65a8c-8f64-4116-a03e-5d075619997d,1089df9c-fdd1-4529-a1aa-2b221113ad2b,59995d29-ebe2-43d9-a52b-766683fd41a7,22c1c8d9-7d4d-4f9d-8a9d-46d5541402ae,402d9a4d-440a-415a-a8d8-10c7874a6f75,e2b2b2df-c6b6-4c3a-b3fb-27f5ccb4d04d,24dd9591-f16e-4889-b91c-e993ba4395db,e74ebdae-932f-401a-963d-ffa359b8108a,3ed49df9-8e70-42be-b1cf-9359d0fc1614,68232241-68a9-4889-9b34-d6779687a99c,aa7a9ca6-a817-43c2-a739-3c8b1c6a0a35,27e5e2b9-5ed9-4048-adc6-c4a06a9125d5,3ffd2c9b-6f90-4393-8e5f-431cf2f18b2f,f92a839d-75dd-4bca-9139-84534fb4e70f,14beb3f5-a2a4-4152-98e7-6617d5a376a4,3fdc399a-22e4-47f2-b304-2884e4deea12,329b025e-1bce-46e1-8937-507de51251e3,797c78fe-e695-42f5-9b69-96fb5dca19fd,d76c6ce8-8f0b-4686-8d75-0c31dad2d99b,0004a061-f92e-4edc-a97f-54a079d531da,8ebfd80e-2c42-4c9c-8dd9-ac9080a8a0ee,71beb708-264b-401c-83ad-25e6faf518cc,199aeca4-f23b-4f57-b46f-05d88fdb1030,2d2be6c9-452d-4116-9a74-29623c448bc6,5a465c73-6a8c-425f-b391-0f06abbb470f,a34af947-48a8-4438-8b4b-275e8ddb9ec4,4eb5d1b3-d465-4ebd-b170-cb8206c1cdbd,4a79a993-49b2-4f18-bb6d-f26d95d76695,519b03d2-2a53-4edd-9281-92afd0f0a8b4,daad34fd-203d-4483-b40c-66e305043a6a,3e9ca4f7-2b27-46a8-b29f-f0fafa5981d8,a99e0373-7651-454e-b228-73438fbf2228,8aa605b4-c13e-40bb-be89-40404b6239a0,020d47de-983b-4b3a-99c3-2404965c8d71,8c7e5069-c0c0-469d-8302-542f8aa1add8,d371a3d6-0d41-411e-8a10-1e0ed5d0e702,1e5862d6-698f-4381-84c9-a4808568af90,296aecbb-7f0a-4f98-99b9-92ce82f635f9,d268f047-d318-4f1a-ae1d-e110bd0cc1a7,21cb5a55-f453-4fc8-b804-aa5115ba3524,f1364390-86f7-4fc0-8e38-05bba340b74e,f8158e98-744a-4b2e-840a-33c27f4c3797,e4c15ca6-e165-44f9-84a6-ad41e9501ccb,e5c2d5a6-13dc-4602-9fa0-3b99b755df22,9f6bfa8b-2b1c-4f34-b59c-d8adb997c3e9,297f648d-93b9-47ca-9f52-4c83f9e1d6c6,8edf9df2-0794-4d6e-bf84-bee8c6788289"
